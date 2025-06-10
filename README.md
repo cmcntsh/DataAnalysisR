@@ -2,6 +2,8 @@
 
 * Data Analysis Courses https://utah.catalog.instructure.com/browse/ds-learn/
 
+## Introduction to R
+
 * Install RStudio
 * https://posit.cloud/
 * Navigating RStudio and Quarto
