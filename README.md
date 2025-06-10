@@ -17,12 +17,18 @@
     * create a new project
     * create a new quarto document
     * `x <- 1`
-    * quarto document header `embed-resources: true`
-    * 
+    * quarto document header `embed-resources: true` 
   * Best practices for reproducibility: Workspace image
+    * Don't save workspace image (start fresh each time)
   * Working with objects/variables
+    * order of code execution
   * Types
+    * numeric
+    * character
+    * logical (TRUE FALSE)
+    * class()
   * Type conversions
+    * `as.character()` `as.logical()` `as.numeric()`
   * Logical operations
   * Objects and types
 * Vectors
