@@ -14,7 +14,11 @@
   * Source and Visual studio editor
 * Objects in R
   * Projects, working directories, and defining objects/variables in R
+    * create a new project
+    * create a new quarto document
     * `x <- 1`
+    * quarto document header `embed-resources: true`
+    * 
   * Best practices for reproducibility: Workspace image
   * Working with objects/variables
   * Types
