@@ -29,10 +29,11 @@
     * class()
   * Type conversions
     * `as.character()` `as.logical()` `as.numeric()`
+    * NA objects
   * Logical operations
-  * Objects and types
 * Vectors
   * Introduction to vectors
+    * c()
   * Working with vectors and vectorization
   * Subsetting vectors
   * Integer sequence vectors
@@ -41,8 +42,7 @@
 * Loading data into R
   * Introduction to data frames
   * Loading .csv data files into R
-  * Loading excel files and installing packages
-  * 
+  * Loading excel files and installing packages 
 * Working with dataframes using dplyr and the tidyverse
   * Subsetting data frames in "base R"
   * Extracting columns using the select() dplyr function
